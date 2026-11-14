@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tabadian.com/sitemap.xml
